@@ -1,0 +1,34 @@
+[
+    {
+        "UpdateStageName": "Download Latest API Runner",
+        "UpdateSourcePlatform": "Windows",
+        "UpdateSource": "GithubRelease",
+        "UpdateSourceData": "",
+        "UpdateSourceArgs": "BattleBit-Community-Servers/BattleBitAPIRunner",
+        "UpdateSourceVersion": "",
+        "UpdateSourceTarget": "",
+        "UnzipUpdateSource": false,
+        "OverwriteExistingFiles": false,
+        "ForceDownloadPlatform": null,
+        "UpdateSourceConditionSetting": null,
+        "UpdateSourceConditionValue": null,
+        "DeleteAfterExtract": true,
+        "OneShot": false
+    },
+    {
+        "UpdateStageName": "Start Server to Generate File",
+        "UpdateSourcePlatform": "All",
+        "UpdateSource": "StartApplication",
+        "UpdateSourceData": "",
+        "UpdateSourceArgs": "",
+        "UpdateSourceVersion": "",
+        "UpdateSourceTarget": "",
+        "UnzipUpdateSource": false,
+        "OverwriteExistingFiles": false,
+        "ForceDownloadPlatform": null,
+        "UpdateSourceConditionSetting": null,
+        "UpdateSourceConditionValue": null,
+        "DeleteAfterExtract": true,
+        "OneShot": true
+    }
+]
