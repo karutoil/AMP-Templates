@@ -1,0 +1,18 @@
+[
+    {
+        "UpdateStageName": "Download Latest API Runner",
+        "UpdateSourcePlatform": "All",
+        "UpdateSource": "GithubRelease",
+        "UpdateSourceData": "",
+        "UpdateSourceArgs": "BattleBit-Community-Servers/BattleBitAPIRunner",
+        "UpdateSourceVersion": "",
+        "UpdateSourceTarget": "",
+        "UnzipUpdateSource": false,
+        "OverwriteExistingFiles": false,
+        "ForceDownloadPlatform": null,
+        "UpdateSourceConditionSetting": null,
+        "UpdateSourceConditionValue": null,
+        "DeleteAfterExtract": true,
+        "OneShot": false
+    }
+]
