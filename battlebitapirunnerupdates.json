@@ -8,9 +8,6 @@
         "UpdateSourceTarget": "{{$FullBaseDir}}",
         "UnzipUpdateSource": true,
         "OverwriteExistingFiles": true,
-        "ForceDownloadPlatform": null,
-        "UpdateSourceConditionSetting": null,
-        "UpdateSourceConditionValue": null,
         "DeleteAfterExtract": true,
         "OneShot": false
     }
